@@ -95,7 +95,7 @@ Usage
     Where:
     \table
         Property   | Description                     | Required | Default value
-        Tsol       | Solidus temperature [K]             | yes      |
+        Tsol       | Solidus temperature [K]             | yes      |577
         Tliq       | Liquidus temperature [K]            | no       | Tsol
         alpha1e    | Max eutectic melt fraction [0-1[    | no       | 0
         L          | Latent heat of fusion [J/kg]        | yes      |
